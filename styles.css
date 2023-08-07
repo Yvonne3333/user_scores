@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background-color: rgb(204, 253, 193);
+    font-family: Rubik;
+    color: white;
+}
+
+.square1 {
+    background-color: rgb(167, 218, 79);
+    padding: 20px;
+    margin-top: 30vh;
+    border: 5px solid;
+    border-radius: 25px;
+    text-align: center;
+    border-color: rgb(65, 83, 37);
+}
+
+h1 {
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+p {
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+input {
+    border: 3px solid ;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    font-size: 100%;
+    font-weight: 600;
+    text-align: center;
+    color: black;
+}
+
+#message {
+    margin-bottom: 29px;
+    color: white;
+}
+button {
+    border: none;
+    background-color: rgb(63, 137, 7);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: -7px;
+    color: white;
+}
